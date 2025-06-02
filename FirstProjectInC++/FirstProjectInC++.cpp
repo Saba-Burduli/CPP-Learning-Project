@@ -5,7 +5,7 @@
 
 int main()
 {
-	////integers : int/double
+	////1.integers : int/double
 	//int file_size = 0;
 	//int counter = 0;
 	//double sales = 9.99;
@@ -14,13 +14,15 @@ int main()
 	//return 0;
 
 
-	//writte code to swap the value of two variales :
-	int a = 1;
-	int b = 2;
-	int temp = a;
-	a = b;
-	b = temp;
-	std::cout << a;
+	////2.writte code to swap the value of two variales :
+	//int a = 1;
+	//int b = 2;
+	//int temp = a;
+	//a = b;
+	//b = temp;
+	//std::cout << a;
+
+	//Constants :
 
 }
 
