@@ -3,54 +3,11 @@
 
 #include <iostream>
 
-//first minimal programm in c++
-int main() {
-
-
-
-
+int main()
+{
+	std::cout << "Hello World"; //its statment
+	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
