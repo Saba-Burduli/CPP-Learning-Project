@@ -3,10 +3,53 @@
 
 #include <iostream>
 
-int main()
-{
-    std::cout << "Hello World!\n";
+//first minimal programm in c++
+int main() {
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
